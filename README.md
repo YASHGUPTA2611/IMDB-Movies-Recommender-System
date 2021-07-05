@@ -10,7 +10,16 @@ Content-based filtering uses item features to recommend other items similar to w
 
 * Second one is Weighted Average Recommendation System :- 
 
-On the basis of the Weighted Average we will make a system which recommend the best suited movie for a customer.
+On the basis of the Weighted Average formula we will make a system which recommend the best suited movie for a customer.
 
+![](Image.png)
+
+In this file I have also made a recommender system on the basis of Popularity, The movie with maximum popularity will recommend first. 
+
+After it I made a Recommender system with both parameters of Popularity and Weighted Average.
+
+You can also find the dataset on - https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+## Hope you will find this Useful.
 
 
